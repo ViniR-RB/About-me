@@ -12,5 +12,21 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ViniR-RB&theme=blue-green&hide_border=false)<br/>
 ![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ViniR-RB&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+# 🐱‍👤 Projects
+- [Sentinela - Environmental Social Project - Back-End](https://github.com/ViniR-RB/sentinela)
+- [Sentinela - Environmental Social Project - Front-End](https://github.com/ViniR-RB/sentinelaFront)
+
+# 💭 Projects focused on software architecture
+- [Clean Dart 3.0](https://github.com/ViniR-RB/clean-dart-in-3.0)
+- [Architecture Most Same Simple](https://github.com/ViniR-RB/testeFlutter)
+
+# 🤳 UI Projects
+- [Sentinela](https://github.com/ViniR-RB/clean-dart-in-3.0](https://www.figma.com/file/xp7353C9lThB79brpWiHgs/Recycle?type=design&mode=design&t=uUCHiHLX0gkvZAQm-0)https://www.figma.com/file/xp7353C9lThB79brpWiHgs/Recycle?type=design&mode=design&t=uUCHiHLX0gkvZAQm-0)
+- [Hello Service](https://github.com/ViniR-RB/testeFlutter](https://www.figma.com/file/KuIHcTnNUzH54rwFXkkR37/Hello-Service-(Copy)?type=design&mode=design&t=7x7iJhPc2SBvog2R-0)https://www.figma.com/file/KuIHcTnNUzH54rwFXkkR37/Hello-Service-(Copy)?type=design&mode=design&t=7x7iJhPc2SBvog2R-0)
+# ✔ Technical challenges
+- [FrontEnd Challenge](https://github.com/ViniR-RB/desafio2)
+
+
+
 
 
